@@ -1,0 +1,34 @@
+a {
+    color: #34495e;
+    text-decoration: none;
+}
+
+.username {
+    margin:0 5px;
+}
+
+.box {
+    width: 22%;
+    height: 8%;
+    display: inline-block;
+    font-size: 32px;
+    margin: 1%;
+    color: white;
+    text-align: center;
+}
+.box-blue {
+    background: #00b0de;
+}
+.box-pink {
+    background: #dc3a74;
+}
+.box-green {
+    background: #b9d136;
+}
+.box-yellow {
+    background: #efa92b;
+}
+
+.center {
+    text-align: center;
+}
